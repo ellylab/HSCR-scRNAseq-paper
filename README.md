@@ -3,6 +3,7 @@
 
 # main R code
 - [main_figures_code.ipynb](https://github.com/ellylab/HSCR-scRNAseq-paper/blob/main/main_figures_code.ipynb)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7710574.svg)](https://doi.org/10.5281/zenodo.7710574)
 
 # main R data
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7521931.svg)](https://doi.org/10.5281/zenodo.7521931)
